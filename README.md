@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Noman Abdullah</h1>
-<h3 align="center">Passionate Machine Learning Engineer</h3>
+<h3 align="center">Passionate Machine Learning Enthusiast</h3>
 <img align="right" alt=" " width="400" src="https://shortpixel.com/blog/wp-content/uploads/2023/12/ezgif-5-1573383f6b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanabdullah13&label=Profile%20views&color=0e75b6&style=flat" alt="nomanabdullah13" /> </p>
