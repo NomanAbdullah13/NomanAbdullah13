@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **AI , ML , DL , LLM**
 
-- 📫 How to reach me **nomanabdullah2027@gmail.com**
+- 📫 How to reach me **nomanabdullah2025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
