@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanabdullah13&label=Profile%20views&color=0e75b6&style=flat" alt="nomanabdullah13" /> </p>
 
-- 🌱 I’m currently learning **AI Agent**
+- 🌱 I’m currently learning **AI Agent, Diffusion Model**
 
 - 💬 Ask me about **AI , ML , DL , LLM**
 
